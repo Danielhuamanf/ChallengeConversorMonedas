@@ -18,5 +18,13 @@ Seleccione una opción:
 3) Dólar =>> Real brasileño
 4) Real brasileño =>> Dólar
 7) Salir
+
+
+
+
 Programa ejecutandose
+
+[![Screenshot-2024-06-13-112738.png](https://i.postimg.cc/KjrWpGY6/Screenshot-2024-06-13-112738.png)](https://postimg.cc/8fcwjVM4)
+
+
 [![Screenshot-2024-06-13-112805.png](https://i.postimg.cc/YqMZGWnM/Screenshot-2024-06-13-112805.png)](https://postimg.cc/s1HwbvCN)
